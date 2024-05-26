@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="title-container">
-          <div className="title-small">노년층을 위한 쉽고 간편한</div>
+          <div className="title-small">어렵다 젠장 ㅠㅠ</div>
           <div className="title-large">패스트푸드 키오스크</div>
         </div>
         <img src={burgerImage} alt="햄버거" className="burger-image" />
