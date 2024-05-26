@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sowe-project/static/css/main.2f674cac.css",
+    "main.js": "/sowe-project/static/js/main.77da38aa.js",
+    "static/js/453.6522c954.chunk.js": "/sowe-project/static/js/453.6522c954.chunk.js",
+    "static/media/burger.jpg": "/sowe-project/static/media/burger.adc9ce1f1e094616c403.jpg",
+    "index.html": "/sowe-project/index.html",
+    "main.2f674cac.css.map": "/sowe-project/static/css/main.2f674cac.css.map",
+    "main.77da38aa.js.map": "/sowe-project/static/js/main.77da38aa.js.map",
+    "453.6522c954.chunk.js.map": "/sowe-project/static/js/453.6522c954.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f674cac.css",
+    "static/js/main.77da38aa.js"
+  ]
+}
