@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  max-width: 800px; /* 전체 컨텐츠의 최대 너비 */
+  margin: 0 auto; /* 가운데 정렬 */
+}
+
+.container {
+  width: 1080px;
+  height: 1645px;
+  gap: 0px;
+  opacity: 0;
+  display: flex;
+  flex-direction: column; /* 또는 row */
+  justify-content: center; /* 원하는 대로 조정 */
+  align-items: center; /* 원하는 대로 조정 */
+}
+
+
+.App-header {
+  background-color: #f8f9fa;
+  padding: 40px;
+  color: #333;
+}
+
+.title-container {
+  margin-bottom: 20px;
+}
+
+.title-small {
+  font-size: 1.2em;
+  margin-bottom: 5px;
+}
+
+.title-large {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.burger-image {
+  width: 150px;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.order-button, .eat-in-button, .takeaway-button, .settings-button {
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.order-button {
+  background-color: #8b4513; /* 고동색 */
+}
+
+.settings-button {
+  background-color: #4b0082; /* 인디고색 */
+  margin-left: 10px;
+}
+
+.eat-in-button {
+  background-color: #ff0000; /* 빨간색 */
+  margin-right: 10px;
+}
+
+.takeaway-button {
+  background-color: #ffd700; /* 노란색 */
+}
+
+.order-button:hover, .eat-in-button:hover, .takeaway-button:hover, .settings-button:hover {
+  transform: scale(1.1);
+}
