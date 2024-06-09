@@ -1,0 +1,33 @@
+/* src/components/Cart.css */
+.cart-container {
+    padding: 20px;
+  }
+  
+  .cart-items {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .checkout-button,
+  .cancel-button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .checkout-button {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .cancel-button {
+    background-color: #f44336;
+    color: white;
+  }
+  
